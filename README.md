@@ -1,4 +1,1 @@
-- Hi, I’m Mubashir Ali.
-- I’m interested in Programing.
-- I’m currently learning BCSC From PAF KIET University.
-- My all social media profile links in description.
+
